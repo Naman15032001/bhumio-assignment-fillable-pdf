@@ -2,6 +2,8 @@
 
 # Steps to run Backend
 
+Download example pdf and store in local and update in .env 
+
 ```
 cd pdf-backend
 npm i
