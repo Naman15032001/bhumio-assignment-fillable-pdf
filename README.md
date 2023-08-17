@@ -5,7 +5,7 @@
 ```
 cd pdf-backend
 npm i
-npm start:dev
+npm run start:dev
 ```
 
 # Steps to run Frontend
